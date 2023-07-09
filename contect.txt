@@ -1,0 +1,10 @@
+Website Colors:
+primary: 
+rgb(65, 127, 239)
+hsl(219, 84%, 60%)
+#417fef
+
+secondary:
+rgb(255, 200, 97)
+hsl(39, 100%, 69%)
+#ffc861
